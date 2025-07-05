@@ -54,14 +54,9 @@ attributes such as productTitle, originalPrice, price, and tagText.
    • Best performing range: $201-300
    • Total sales in this range: 2,109
 
- ## RECOMMENDATIONS:
-   • Focus inventory on Seating category
-   • Optimize pricing in $$201-300 range
-   • Consider promoting products with low/no sales
-================================================================================
+ ## RECOMMENDATIONS
+ 
+   - Focus inventory on Seating category
+   - Optimize pricing in $$201-300 range
+   - Consider promoting products with low/no sales
 
-==================================================
-ADDITIONAL STATISTICAL ANALYSIS
-==================================================
-
-Correlation between Price and Sales: 0.090
