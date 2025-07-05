@@ -1,2 +1,5 @@
-# Data--Analysis-Dashboard
-I developed a comprehensive project using Excel , Power Bi ,Python creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+## E-COMMERCE-DATA-ANALYSIS (Interactive Dashboard using Python)
+
+## PROJECT OBJECTIVE
+● Objective: Predict the number of furniture items sold (sold) based on product
+attributes such as productTitle, originalPrice, price, and tagText.
