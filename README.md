@@ -18,8 +18,7 @@ attributes such as productTitle, originalPrice, price, and tagText.
 - Do discounted products sell more on average than non-discounted ones?
 - Which marketing tag (e.g., “Free Shipping”) appears the most?
 -  How many products have not been sold even once?
-- Dashboard Intrection - 
-[Uploading E commmerce dashboard.ipynb…]()
+- Dashboard Intrection - https://github.com/Rashid-tech-cpu/Data--Analysis-Dashboard/blob/main/E%20commmerce%20dashboard%20(1).ipynb
 
 ## PROCESS
  - Import pandas, matplotlib, seaborn.[Uploading E commmerce dashboard.ipynb…]()
