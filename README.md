@@ -18,10 +18,12 @@ attributes such as productTitle, originalPrice, price, and tagText.
 - Do discounted products sell more on average than non-discounted ones?
 - Which marketing tag (e.g., “Free Shipping”) appears the most?
 -  How many products have not been sold even once?
-- Dashboard Intrection 
+- Dashboard Intrection - 
+[Uploading E commmerce dashboard.ipynb…]()
 
 ## PROCESS
- - Import pandas, matplotlib, seaborn.
+ - Import pandas, matplotlib, seaborn.[Uploading E commmerce dashboard.ipynb…]()
+
  - Load the CSV file using pd.read_csv().
  - Remove $ and convert price and originalPrice to float.
  - Fill missing tagText with "No Tag" and handle missing prices.
